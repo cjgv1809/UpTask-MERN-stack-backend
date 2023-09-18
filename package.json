@@ -10,6 +10,9 @@
   },
   "author": "Carlos Gomes",
   "license": "ISC",
+  "engines": {
+    "node": ">=14.20.1"
+  },
   "dependencies": {
     "bcrypt": "^5.1.1",
     "cors": "^2.8.5",
