@@ -47,3 +47,7 @@ A brief description of what this project does and who it's for
 ![Screenshot (80)](https://github.com/cjgv1809/UpTask-MERN-stack-frontend/assets/57246901/569066ab-bc37-45c5-9c1f-33dafd8eb641)
 
 - Desktop view
+
+![Screenshot (79)](https://github.com/cjgv1809/UpTask-MERN-stack-frontend/assets/57246901/62e7ea3e-e69d-4407-927c-90d36719205a)
+
+![Screenshot (78)](https://github.com/cjgv1809/UpTask-MERN-stack-frontend/assets/57246901/7e1a0ba3-dffc-44f3-a1a6-17988c38e776)
