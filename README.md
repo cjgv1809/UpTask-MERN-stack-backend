@@ -21,7 +21,8 @@ A brief description of what this project does and who it's for
 - Mongoose as ORM
 - MongoDB as Database
 - MVC architecture
-- Socket.io implemented real-time updates when updating, deleting, or creating new tasks for any project previously created inside the app 
+- Socket.io implemented real-time updates when updating, deleting, or creating new tasks for any project previously created inside the app
+- Add Cypress package for e2e testing in the frontend  
 
 
 ## Tech Stack
